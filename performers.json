@@ -1,3 +1,17 @@
 [
-
+  {
+    "address" : "",
+    "bankDetails" : {
+      "account" : "40802810000006973914",
+      "bankName" : "АО \"ТБанк\" Г. Москва",
+      "bik" : "044525974",
+      "correspondentAccount" : "30101810145250000974"
+    },
+    "id" : "805473ED-CABC-450A-A3F8-AE7C944A28C6",
+    "inn" : "920155890515",
+    "name" : "Коснырева Кристина Олеговна",
+    "socialMediaLinks" : [
+      "Vk.com"
+    ]
+  }
 ]
