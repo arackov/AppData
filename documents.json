@@ -1,3 +1,19 @@
 [
-
+  {
+    "clientID" : "EEC371EF-5AC1-47A6-9F76-A80B3100197C",
+    "date" : 761762283.783533,
+    "id" : "F8D6B391-D3D7-41EC-A072-9CBC2F4BA65B",
+    "number" : "3443",
+    "secondPartyID" : "805473ED-CABC-450A-A3F8-AE7C944A28C6",
+    "services" : [
+      {
+        "id" : "E342E5D7-C654-4F69-B5C7-1BCFD0761D3B",
+        "name" : "Оказание услуг",
+        "price" : 2365,
+        "quantity" : 1
+      }
+    ],
+    "signingStatus" : "Черновик",
+    "type" : "Счет"
+  }
 ]
