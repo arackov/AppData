@@ -1,3 +1,22 @@
 [
-
+  {
+    "clientID" : "EEC371EF-5AC1-47A6-9F76-A80B3100197C",
+    "clientName" : "ИП Черных Александр Владимирович",
+    "date" : 761763565.735,
+    "id" : "E23244FE-CA1D-47E5-904A-DEA4463D9FF8",
+    "number" : "ЧАВ-ККО\/200225\/О",
+    "performerID" : "805473ED-CABC-450A-A3F8-AE7C944A28C6",
+    "performerName" : "Коснырева Кристина Олеговна",
+    "projects" : [
+      {
+        "amount" : 6500,
+        "id" : "7221EFE8-0C24-47D2-85FB-9ACDE45F33C9",
+        "name" : "О",
+        "placementPeriod" : "20.02.2025 - 20.02.2025",
+        "placementResource" : "Vk.com",
+        "placementType" : "Ь"
+      }
+    ],
+    "signingStatus" : "Черновик"
+  }
 ]
