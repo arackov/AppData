@@ -5,13 +5,5 @@
     "name" : "Admin",
     "password" : "123456",
     "role" : "Администратор"
-  },
-  {
-    "departmentId" : "51C62985-A717-4450-8162-B7222C69480A",
-    "id" : "96F491FC-F6DA-4E82-BA71-81E4A9CDFF72",
-    "login" : "Lena",
-    "name" : "Лена",
-    "password" : "12345678",
-    "role" : "Сотрудник"
   }
 ]
