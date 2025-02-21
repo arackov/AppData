@@ -1,10 +1,18 @@
 [
   {
-    "id" : "75B8EDF5-8B32-4BBF-A674-0120DF5FF45D",
-    "name" : "Дамир"
+    "id": "1f8e4567-e89b-12d3-a456-426614174001",
+    "name": "Иван Иванов",
+    "login": "ivanov",
+    "password": "1234",
+    "departmentId": "2f9e4567-e89b-12d3-a456-426614174002",
+    "role": "employee"
   },
   {
-    "id" : "EC1F6A3E-E128-4532-A261-4590125032AC",
-    "name" : "Лена"
+    "id": "2f8e4567-e89b-12d3-a456-426614174002",
+    "name": "Петр Петров",
+    "login": "petrov",
+    "password": "admin123",
+    "departmentId": "2f9e4567-e89b-12d3-a456-426614174002",
+    "role": "admin"
   }
 ]
