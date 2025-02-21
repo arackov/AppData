@@ -5,5 +5,28 @@
     "name" : "Admin",
     "password" : "123456",
     "role" : "Администратор"
+  },
+  {
+    "departmentId" : "51C62985-A717-4450-8162-B7222C69480A",
+    "id" : "96F491FC-F6DA-4E82-BA71-81E4A9CDFF72",
+    "login" : "Lena",
+    "name" : "Лена",
+    "password" : "12345678",
+    "role" : "Сотрудник"
+  },
+  {
+    "departmentId" : "FD2D911A-1E35-4CFE-946A-0DE1D2F7680D",
+    "id" : "AAC6F58D-37D4-42A3-8EF2-C5FC58137CC4",
+    "login" : "Lena",
+    "name" : "Лена",
+    "password" : "12345678",
+    "role" : "Сотрудник"
+  },
+  {
+    "id" : "37FA229D-24B9-46C7-844C-AE3D02320107",
+    "login" : "irina",
+    "name" : "Ирина",
+    "password" : "1234",
+    "role" : "Сотрудник"
   }
 ]
