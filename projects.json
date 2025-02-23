@@ -1,3 +1,21 @@
 [
-
+  {
+    "id" : "1C7B5DD0-B30A-4F2F-A007-E049DBAE0207",
+    "label" : "Т",
+    "manager" : "Лена",
+    "name" : "И",
+    "publications" : [
+      {
+        "blogger" : "О",
+        "deletionDate" : 762015555.365198,
+        "format" : " Т",
+        "id" : "DEF4D3A4-EEC7-4EEE-BEB4-2964D1529712",
+        "isDeleted" : false,
+        "link" : "О",
+        "publicationDate" : 762015555.36519,
+        "serviceAmount" : 888
+      }
+    ],
+    "totalServiceCost" : 8
+  }
 ]
