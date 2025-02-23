@@ -17,5 +17,24 @@
       }
     ],
     "totalServiceCost" : 8
+  },
+  {
+    "id" : "353B0940-CCE6-426B-B5D3-7AA402158A0C",
+    "label" : "Ттт ",
+    "manager" : "Ирина",
+    "name" : "Шттт",
+    "publications" : [
+      {
+        "blogger" : "И",
+        "deletionDate" : 762015640.800937,
+        "format" : "О",
+        "id" : "CABDACEA-70DA-4115-B21E-1DED466180BF",
+        "isDeleted" : false,
+        "link" : "О",
+        "publicationDate" : 762015640.800932,
+        "serviceAmount" : 800
+      }
+    ],
+    "totalServiceCost" : 880
   }
 ]
