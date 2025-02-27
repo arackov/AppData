@@ -5,5 +5,12 @@
     "name" : "Admin",
     "password" : "123456",
     "role" : "Администратор"
+  },
+  {
+    "id" : "9675309A-AB0E-4932-9A99-4A4E61A3DA7E",
+    "login" : "Maksim",
+    "name" : "Максим",
+    "password" : "1111",
+    "role" : "Сотрудник"
   }
 ]
