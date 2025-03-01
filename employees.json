@@ -1,16 +1,9 @@
 [
   {
-    "id" : "0D3B782E-4AF7-4661-9C63-6179A42E55B0",
-    "login" : "admin",
+    "id" : "4664A5FE-47C5-441C-BCEF-A0F24B103BA2",
+    "login" : "Admin",
     "name" : "Admin",
-    "password" : "123456",
-    "role" : "Администратор"
-  },
-  {
-    "id" : "582713F2-3C38-457A-B54B-23FCD20F0A1C",
-    "login" : "Синус",
-    "name" : "Синус",
     "password" : "1111",
-    "role" : "Сотрудник"
+    "role" : "Администратор"
   }
 ]
